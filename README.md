@@ -44,5 +44,5 @@ Curious about systems, Android, Linux, and how things work.
 > building quietly.
 ---
  #### FOMO SKALI INI
- # TAMPA BA TANYA @marij-mokoginta
+ # TAMPA BA TANYA @marijmokoginta
 </div>
