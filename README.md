@@ -1,5 +1,28 @@
 <div align="center">
 
+# ⚡ xynnex
+
+` trial, error, recover, repeat. `
+
+Curious about systems, Android, Linux, and how things work.
+
+---
+
+###  Areas of Interest
+
+|   |   |
+| :---: | :---: |
+| 🐧 **Linux** | 📱 **Android Modding** |
+| ⚙️ **System Customization** | 🌐 **Networking & Tinkering** |
+
+<br>
+
+*` More focused on understanding the system than simply using it. `*
+
+</div>
+
+<div align='center'>
+```bash
 ⠀⠀⠀⠀⠀⢠⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⡄⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢸⡏⠉⠉⠉⠉⣉⣩⣭⣭⣽⣿⣿⣿⣯⣭⣭⣍⡉⠉⠉⠉⠉⢹⡇⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢸⣇⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⢸⡇⠀⠀⠀⠀⠀
@@ -21,24 +44,5 @@
 ⠀⠀⠀⠀⠀⠀⢀⣎⡁⣠⠤⠀⣤⢤⠀⡤⠄⠀⣬⠀⢠⣤⡄⢸⡧⠀⡄⣤⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠇⠀⠬⠽⠂⠿⠾⠀⠧⠖⠠⠿⠄⠺⠭⠁⠸⠧⠀⢳⣿⠐⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀
-
-# ⚡ xynnex
-
-` trial, error, recover, repeat. `
-
-Curious about systems, Android, Linux, and how things work.
-
----
-
-###  Areas of Interest
-
-|   |   |
-| :---: | :---: |
-| 🐧 **Linux** | 📱 **Android Modding** |
-| ⚙️ **System Customization** | 🌐 **Networking & Tinkering** |
-
-<br>
-
-*` More focused on understanding the system than simply using it. `*
 
 </div>
