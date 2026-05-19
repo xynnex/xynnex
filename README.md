@@ -9,9 +9,9 @@ Curious about how things work underneath.
 
 I enjoy:
 
-Linux
-Android modding
-system customization
-networking
+- Linux
+- Android modding
+- system customization
+- networking & tinkering
 
 More focused on understanding the system than simply using it.
