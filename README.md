@@ -31,5 +31,5 @@ Curious about systems, Android, Linux, and how things work.
 
 > building quietly.
 <br>
- FOMO SKALI ANJING
+ FOMO SKALI INI
 </div>
