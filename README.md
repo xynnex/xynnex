@@ -4,13 +4,12 @@
 <div align="center">
 
 ` trial, error, recover, repeat.`
-` Curious about systems, Android, Linux, and how things work.`
+ Curious about systems, Android, Linux, and how things work.
 
 </div>
 
 <div align="center">
- I enjoy:
-
+ 
   - Linux
   - Android modding
   - system customization
