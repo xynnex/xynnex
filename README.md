@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="80" />
 </p>
+
 <br>
+
 ` trial, error, recover, repeat. `
 
 Curious about systems, Android, Linux, and how things work.
