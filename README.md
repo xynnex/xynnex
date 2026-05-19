@@ -18,7 +18,8 @@ Curious about systems, Android, Linux, and how things work.
 
 <br>
 
-*` Control is an Illusion. `*
+*` "Control is an Illusion." `*
+ `by Mr. Robot`
 
   <pre>⠀
 ⠀
