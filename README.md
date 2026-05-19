@@ -21,7 +21,7 @@ Curious about systems, Android, Linux, and how things work.
 
 </div>
 
-<div align='center'>
+
 ⠀⠀⠀⠀⠀⢠⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⡄⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢸⡏⠉⠉⠉⠉⣉⣩⣭⣭⣽⣿⣿⣿⣯⣭⣭⣍⡉⠉⠉⠉⠉⢹⡇⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢸⣇⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⢸⡇⠀⠀⠀⠀⠀
@@ -44,4 +44,4 @@ Curious about systems, Android, Linux, and how things work.
 ⠀⠀⠀⠀⠀⠀⠀⠇⠀⠬⠽⠂⠿⠾⠀⠧⠖⠠⠿⠄⠺⠭⠁⠸⠧⠀⢳⣿⠐⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀
 
-</div>
+
