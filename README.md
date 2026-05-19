@@ -16,19 +16,21 @@ Curious about systems, Android, Linux, and how things work.
 
 </div>
 
-
+<br>
 
 *` Control is an Illusion `*
 
-</div>
-
-
-<div align="center">
   <pre>⠀
 ⠀
 ⠀⠀⠀⠀⠀⠀⢀⣎⡁⣠⠤⠀⣤⢤⠀⡤⠄⠀⣬⠀⢠⣤⡄⢸⡧⠀⡄⣤⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠇⠀⠬⠽⠂⠿⠾⠀⠧⠖⠠⠿⠄⠺⠭⠁⠸⠧⠀⢳⣿⠐⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀
   </pre>
+
+</div>
+
+
+<div align="center">
+
 </div>
 
