@@ -1,11 +1,11 @@
 # xynnex
 
 
-trial, error, recover, repeat.
+## trial, error, recover, repeat.
 
-#Curious about systems, Android, Linux, and how things work.
+# Curious about systems, Android, Linux, and how things work.
 
-Curious about how things work underneath.
+
 
 I enjoy:
 
