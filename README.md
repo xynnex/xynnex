@@ -10,10 +10,11 @@ Curious about systems, Android, Linux, and how things work.
 
 ###  Areas of Interest
 
-|   |   |
-| :---: | :---: |
-| 🐧 **Linux** | 📱 **Android Modding** |
-| ⚙️ **System Customization** | 🌐 **Networking & Tinkering** |
+<div align="center">
+
+> 🐧 **Linux** &nbsp;•&nbsp; 📱 **Android Modding** &nbsp;•&nbsp; ⚙️ **System Customization** &nbsp;•&nbsp; 🌐 **Networking & Tinkering**
+
+</div>
 
 <br>
 
