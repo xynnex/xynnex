@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ xynnex
+#  xynnex
 
 ` trial, error, recover, repeat. `
 
@@ -23,7 +23,8 @@ Curious about systems, Android, Linux, and how things work.
 
 
 <div align="center">
-  <pre>⠀⠀⠀⠀⠀
+  <pre>⠀
+    ```bash⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣎⡁⣠⠤⠀⣤⢤⠀⡤⠄⠀⣬⠀⢠⣤⡄⢸⡧⠀⡄⣤⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠇⠀⠬⠽⠂⠿⠾⠀⠧⠖⠠⠿⠄⠺⠭⠁⠸⠧⠀⢳⣿⠐⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀
