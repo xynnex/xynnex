@@ -18,7 +18,7 @@ Curious about systems, Android, Linux, and how things work.
 
 <br>
 
-*` More focused on understanding the system than simply using it. `*
+*` Control is an Illusion `*
 
 </div>
 
