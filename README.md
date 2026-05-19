@@ -12,7 +12,7 @@ Curious about systems, Android, Linux, and how things work.
 
 <div align="center">
 
-> 🐧 **Linux** &nbsp;•&nbsp; 📱 **Android Modding** &nbsp;•&nbsp; ⚙️ **System Customization** &nbsp;•&nbsp; 🌐 **Networking & Tinkering**
+🐧 **Linux** &nbsp;•&nbsp; 📱 **Android Modding** &nbsp;•&nbsp; ⚙️ **System Customization** &nbsp;•&nbsp; 🌐 **Networking & Tinkering**
 
 </div>
 
@@ -29,5 +29,6 @@ Curious about systems, Android, Linux, and how things work.
 
 
 > building quietly.
-> FOMO SKALI ANJING
+<br>
+ FOMO SKALI ANJING
 </div>
