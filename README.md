@@ -1,6 +1,10 @@
 <div align="center">
 
-#  xynnex
+# Debian User
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="80" />
+</p>
 
 ` trial, error, recover, repeat. `
 
