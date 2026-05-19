@@ -8,10 +8,10 @@
 
 `I enjoy:`
 
-` - Linux`
-` - Android modding`
-` - system customization`
-` - networking & tinkering`
+` - Linux
+  - Android modding
+  - system customization
+  - networking & tinkering`
 
 ` More focused on understanding the system than simply using it.`
 
