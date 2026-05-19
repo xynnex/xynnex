@@ -3,11 +3,8 @@
 
 <div align="center">
 
-` ## trial, error, recover, repeat.`
-
-</div>
-
-### Curious about systems, Android, Linux, and how things work.
+` #trial, error, recover, repeat.`
+`### Curious about systems, Android, Linux, and how things work.
 
 I enjoy:
 
@@ -16,4 +13,8 @@ I enjoy:
 - system customization
 - networking & tinkering
 
-More focused on understanding the system than simply using it.
+More focused on understanding the system than simply using it.`
+
+</div>
+
+
