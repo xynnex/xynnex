@@ -11,8 +11,7 @@ I enjoy:
 
 Linux
 Android modding
-fullstack development
 system customization
-networking & tinkering
+networking
 
 More focused on understanding the system than simply using it.
