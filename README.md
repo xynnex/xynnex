@@ -18,9 +18,6 @@ Curious about systems, Android, Linux, and how things work.
 
 <div align="center">
 
-> ⚙ **Linux** &nbsp;•&nbsp; ⚙ **Android Modding** &nbsp;•&nbsp; ⚙ **System Customization** &nbsp;•&nbsp; ⚙ **Networking & Tinkering**
-
-
 > <img src="https://cdn.simpleicons.org/linux" width="16"/> Linux • 
 > <img src="https://cdn.simpleicons.org/android" width="16"/> Android Modding • 
 > <img src="https://cdn.simpleicons.org/gnubash" width="16"/> System Customization • 
