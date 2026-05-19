@@ -1,19 +1,22 @@
-# xynnex
-
-
 <div align="center">
 
-` trial, error, recover, repeat.`
- Curious about systems, Android, Linux, and how things work.
+# ⚡ xynnex
 
-</div>
+` trial, error, recover, repeat. `
 
-<div align="center">
- 
-  - Linux
-  - Android modding
-  - system customization
-  - networking & tinkering
+Curious about systems, Android, Linux, and how things work.
 
- "More focused on understanding the system than simply using it."
+---
+
+### 🔧 Areas of Interest
+
+|   |   |
+| :---: | :---: |
+| 🐧 **Linux** | 📱 **Android Modding** |
+| ⚙️ **System Customization** | 🌐 **Networking & Tinkering** |
+
+<br>
+
+*` More focused on understanding the system than simply using it. `*
+
 </div>
