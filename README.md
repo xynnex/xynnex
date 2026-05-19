@@ -1,7 +1,11 @@
 # xynnex
 
 
-## trial, error, recover, repeat.
+<div align="center">
+
+` ## trial, error, recover, repeat.`
+
+</div>
 
 ### Curious about systems, Android, Linux, and how things work.
 
