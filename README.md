@@ -29,4 +29,5 @@ Curious about systems, Android, Linux, and how things work.
 
 
 > building quietly.
+> FOMO SKALI ANJING
 </div>
