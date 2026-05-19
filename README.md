@@ -24,7 +24,7 @@ Curious about systems, Android, Linux, and how things work.
 
 <div align="center">
   <pre>⠀
-    ```bash⠀⠀⠀⠀
+⠀
 ⠀⠀⠀⠀⠀⠀⢀⣎⡁⣠⠤⠀⣤⢤⠀⡤⠄⠀⣬⠀⢠⣤⡄⢸⡧⠀⡄⣤⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠇⠀⠬⠽⠂⠿⠾⠀⠧⠖⠠⠿⠄⠺⠭⠁⠸⠧⠀⢳⣿⠐⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀
