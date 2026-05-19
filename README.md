@@ -30,6 +30,6 @@ Curious about systems, Android, Linux, and how things work.
 <br>
 
 > building quietly.
-<br>
+---
  FOMO SKALI INI
 </div>
