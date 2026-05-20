@@ -37,9 +37,9 @@ Curious about systems, Android, Linux, and how things work.
 ⠀⠀⠀⠀⠀⠀⠀⠇⠀⠬⠽⠂⠿⠾⠀⠧⠖⠠⠿⠄⠺⠭⠁⠸⠧⠀⢳⣿⠐⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀
 
+  </pre>
   *` "Control is an Illusion." `*
   `by Mr. Robot`
-  </pre>
 
 <br>
 
