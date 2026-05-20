@@ -28,11 +28,12 @@ Curious about systems, Android, Linux, and how things work.
 
 <br>
 
-*` "Control is an Illusion." `*
-<br>
- `by Mr. Robot`
+
 
   <pre>⠀
+    *` "Control is an Illusion." `*
+<br>
+ `by Mr. Robot`
 ⠀
 ⠀⠀⠀⠀⠀⠀⢀⣎⡁⣠⠤⠀⣤⢤⠀⡤⠄⠀⣬⠀⢠⣤⡄⢸⡧⠀⡄⣤⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠇⠀⠬⠽⠂⠿⠾⠀⠧⠖⠠⠿⠄⠺⠭⠁⠸⠧⠀⢳⣿⠐⠀⠀⠀⠀⠀⠀
