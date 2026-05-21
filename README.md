@@ -45,7 +45,7 @@ Curious about systems, Android, Linux, and how things work.
 <br>
 
 > building quietly.
----
+
  #### FOMO SKALI INI
 ---
 </div>
