@@ -8,7 +8,7 @@
 
 <br>
 
-` trial, error, recover, repeat. `
+` trial, error, learn, recover, repeat. `
 
 Curious about systems, Android, Linux, and how things work.
 
