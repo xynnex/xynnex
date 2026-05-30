@@ -1,6 +1,6 @@
 <div align="center">
 
-# Distro Hopping Journet
+# Linux Distro Hopping Journey
 
 <p align="center">
   <p align="center">
