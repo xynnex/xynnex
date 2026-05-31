@@ -44,7 +44,7 @@
 
 ---
 <details>
-```bash
+```text
 ```
 xynnex@fedora:~$ fastfetch
               .',;::::;,'.                 xynnex@fedora
