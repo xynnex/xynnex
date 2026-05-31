@@ -43,7 +43,9 @@
 > *building quietly.*
 
 ---
+</div>
 
+<div>
 <p align="left">
       
       ```bash
@@ -56,8 +58,6 @@
       Status  : Daily Driver
       ```
 </p>
-
-
 
 <br></br>
 <p align="right">
