@@ -43,7 +43,6 @@
 > *building quietly.*
 
 ---
-<br><br>
 
 <p align="right">
   <sup><sub><em>FOMO SKALI INI</em></sub></sup>
