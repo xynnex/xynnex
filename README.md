@@ -48,7 +48,7 @@
 <div>
 <p align="left">
   
-      OS      : Fedora Linux 44
+      OS      : Fedora Workstation 44
       Kernel  : Linux 7.0.10-201.fc44.x86_64
       Shell   : Bash 5.3.9
       DE      : GNOME 50.1
