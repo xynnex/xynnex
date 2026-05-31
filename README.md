@@ -17,11 +17,6 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora%20Workstation-294172?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
-<p align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Fedora%20Workstation-(Daily%20driver)-202020?style=for-the-badge&logo=fedora&logoColor=white&labelColor=294172">
-</p>
-
 ---
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="26" align="top"/> Areas of Interests
@@ -48,7 +43,7 @@
 <div>
 <p align="center">
   <br>
-  <img src="https://img.shields.io/badge/Fedora%20Workstation-(Daily%20driver)-202020?style=for-the-badge&logo=fedora&logoColor=white&labelColor=294172">
+  <img src="https://img.shields.io/badge/Fedora%20Workstation-(Current%20Use)-202020?style=for-the-badge&logo=fedora&logoColor=white&labelColor=294172">
 </p>
   
 <p align="left">
@@ -59,7 +54,6 @@
       DE      : GNOME 50.1
       WM      : Mutter (Wayland)
       
-      Status  : Daily Driver
 </p>
 
 <br></br>
