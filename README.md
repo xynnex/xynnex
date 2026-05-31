@@ -44,6 +44,7 @@
 
 ---
 
+<p align="left">
 ```bash
 OS      : Fedora Linux 44
 Kernel  : Linux 7.0.10-201.fc44.x86_64
@@ -52,7 +53,10 @@ DE      : GNOME 50.1
 WM      : Mutter (Wayland)
 
 Status  : Daily Driver
-```
+
+</p>
+
+
 
 <br></br>
 <p align="right">
