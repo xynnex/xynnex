@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <br>
-  <img src="https://img.shields.io/badge/Daily%20Driver-Fedora%20Workstation-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&labelColor=101010">
+  <img src="https://img.shields.io/badge/Daily%20Driver-Fedora%20Workstation-000000?style=for-the-badge&logo=fedora&logoColor=51A2DA">
 </p>
 
 ---
