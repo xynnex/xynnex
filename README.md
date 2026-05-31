@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Tinkering+with+Android+%26+Linux;Distro+Hopping+Enthusiast." alt="Typing SVG" />
 </p>
 
---
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" align="top"/> **Linux Distro Hopping Journey**
 <p align="center">
