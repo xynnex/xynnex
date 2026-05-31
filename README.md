@@ -44,6 +44,7 @@
 
 ---
 <details>
+<summary>Current Setup</summary>
 ```text
 ```
 xynnex@fedora:~$ fastfetch
