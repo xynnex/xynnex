@@ -43,9 +43,9 @@
 > *building quietly.*
 
 ---
-<p align="left">
-<pre>
-  
+<details>
+```bash
+```
 xynnex@fedora:~$ fastfetch
               .',;::::;,'.                 xynnex@fedora
           .';:cccccccccccc:;,.             -------------
@@ -66,9 +66,9 @@ cccccccc;.:odl:.;cccccccccccccc:,.
 ccccccccccccccccccccccccccccc:'.
 :ccccccccccccccccccccccc:;,..
  ':cccccccccccccccc::;,.
+```
+</details>
 
-</pre>
-</p>
 <br></br>
 <p align="right">
   <sup><sub><em>FOMO SKALI INI</em></sub></sup>
