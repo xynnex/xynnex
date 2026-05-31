@@ -20,18 +20,13 @@
 
 ---
 
-### 🛠️ Tech Stack & Interests
+### Areas of Interests
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
 
-> <img src="https://cdn.simpleicons.org/linux" width="16"/> **Linux** • 
-> <img src="https://cdn.simpleicons.org/android" width="16"/> **Android Modding** • 
-> <img src="https://cdn.simpleicons.org/gnubash" width="16"/> **System Customization** • 
-> <img src="https://cdn.simpleicons.org/wireshark" width="16"/> **Networking & Tinkering**
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="18"/> **Linux** • 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="18"/> **Android Modding** • 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="18"/> **System Customization** • 
+> <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="18"/> **Networking & Tinkering**
 
 <br>
 
