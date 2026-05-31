@@ -45,7 +45,6 @@
 ---
 
 <p align="left">
-  <sup>
       
       ```bash
       OS      : Fedora Linux 44
@@ -56,8 +55,6 @@
       
       Status  : Daily Driver
       ```
-      
-  </sup>
 </p>
 
 
