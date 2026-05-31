@@ -23,10 +23,12 @@
 ### Areas of Interests
 
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="18"/> **Linux** • 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="18"/> **Android Modding** • 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="18"/> **System Customization** • 
-> <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="18"/> **Networking & Tinkering**
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Android_Modding-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/System_Customization-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Networking_%26_Tinkering-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+</p>
 
 <br>
 
