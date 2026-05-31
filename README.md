@@ -11,14 +11,14 @@
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" align="top"/> **Linux Distro Hopping Journey**
 <p align="center">
-  <m><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></m>
-  <m><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"></m>
-  <m><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"></m>
-  <m><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"></m>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
 </p>
 <p align="center">
   <br>
-  <img src="https://img.shields.io/badge/Daily%20Driver-Fedora%20Workstation-000000?style=for-the-badge&logo=fedora&logoColor=51A2DA">
+  <img src="https://img.shields.io/badge/Fedora%20Workstation-(Current%20Use)-294172?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
 
 ---
