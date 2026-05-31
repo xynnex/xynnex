@@ -20,8 +20,7 @@
 
 ---
 
-### Areas of Interests
-
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="26" align="top"/> Areas of Interests
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -31,13 +30,6 @@
 </p>
 
 <br>
-
-<pre>
-
-⠀⠀⠀⠀⠀⠀⢀⣎⡁⣠⠤⠀⣤⢤⠀⡤⠄⠀⣬⠀⢠⣤⡄⢸⡧⠀⡄⣤⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠇⠀⠬⠽⠂⠿⠾⠀⠧⠖⠠⠿⠄⠺⠭⠁⠸⠧⠀⢳⣿⠐⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-</pre>
 
 *` "Control is an Illusion." `* <br>
 — **Mr. Robot**
