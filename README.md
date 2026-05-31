@@ -44,6 +44,30 @@
 
 ---
 
+```bash
+xynnex@fedora:~$ fastfetch
+              .',;::::;,'.                 xynnex@fedora
+          .';:cccccccccccc:;,.             -------------
+       .;cccccccccccccccccccccc;.          OS: Fedora Linux 44 (Workstation Edition) x86_64
+     .:cccccccccccccccccccccccccc:.        Kernel: Linux 7.0.10-201.fc44.x86_64
+   .;ccccccccccccc;.:dddl:.;ccccccc;.      Shell: bash 5.3.9
+  .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     DE: GNOME 50.1
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.     WM: Mutter (Wayland)
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,     
+:cccccccccccccc;MMM.;cccccccccccccccc:     
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc:     
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;     
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'     
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;      
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;       
+cccccc;dNMWXXXWM0:;cccccccccccccc:,        
+cccccccc;.:odl:.;cccccccccccccc:,.
+ccccccccccccccccccccccccccccc:'.
+:ccccccccccccccccccccccc:;,..
+ ':cccccccccccccccc::;,.
+
+```
+
 <p align="right">
   <sup><sub><em>FOMO SKALI INI</em></sub></sup>
 </p>
