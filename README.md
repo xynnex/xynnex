@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora%20Workstation-294172?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
+
 ---
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="26" align="top"/> Areas of Interests
