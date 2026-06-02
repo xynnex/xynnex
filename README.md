@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Android_Modding-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/System_Customization-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Networking_%26_Tinkering-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/KVM-Hypervisor-202020?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/QEMU%20/%20KVM-Virtualization-FF6600?style=for-the-badge&logo=qemu&logoColor=white&labelColor=202020">
 </p>
 
 <br>
