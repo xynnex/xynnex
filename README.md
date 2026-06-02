@@ -54,7 +54,7 @@
       OS      : Fedora Linux 44 (Workstation Edition) x86_64
       Kernel  : Linux 7.0.10-201.fc44.x86_64
       Shell   : Bash 5.3.9
-      DE      : GNOME 50.1
+      DE      : GNOME 50.2
       WM      : Mutter (Wayland)
       
 </p>
