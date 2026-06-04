@@ -46,7 +46,7 @@
 <div>
 <p align="left">
   <br>
-  <img src="https://img.shields.io/badge/Fedora%20Workstation-(Current%20Use)-202020?style=for-the-badge&logo=fedora&logoColor=white&labelColor=294172">
+  <img src="https://img.shields.io/badge/Fedora%20KDE%20Plasma%20Desktop-(Current%20Use)-202020?style=for-the-badge&logo=fedora&logoColor=white&labelColor=294172">
 </p>
   
 <p align="left">
