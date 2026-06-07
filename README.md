@@ -47,7 +47,7 @@
 <div>
 <p align="left">
   <br>
-  <img src="https://img.shields.io/badge/cachyos-(Current%20Use)-202020?style=for-the-badge&logo=cachyos&logoColor=white&labelColor=0B434C">
+  <img src="https://img.shields.io/badge/cachyos-(Current%20Use)-202020?style=for-the-badge&logo=cachyos&logoColor=cachyos&labelColor=0B434C">
 </p>
   
 <p align="left">
