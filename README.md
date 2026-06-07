@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora%20KDE%20Plasma%20Desktop-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora%20Workstation-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/CachyOS-0B434C?style=for-the-badge&logo=cachyos&logoColor=00D2FF">
 </p>
 
 ---
@@ -46,14 +47,14 @@
 <div>
 <p align="left">
   <br>
-  <img src="https://img.shields.io/badge/Fedora%20KDE%20Plasma%20Desktop-(Current%20Use)-202020?style=for-the-badge&logo=fedora&logoColor=white&labelColor=294172">
+  <img src="https://img.shields.io/badge/cachyos-(Current%20Use)-202020?style=for-the-badge&logo=cachyos&logoColor=white&labelColor=0B434C">
 </p>
   
 <p align="left">
   
-      OS      : Fedora Linux 44 (KDE Plasma Desktop Edition) x86_64
-      Kernel  : Linux 7.0.11-200.fc44.x86_64
-      Shell   : Bash 5.3.9
+      OS      : CachyOS x86_64
+      Kernel  : Linux 7.0.11-1-cachyos
+      Shell   : fish 4.7.1
       DE      : KDE Plasma 6.6.5
       WM      : KWin (Wayland)
       
