@@ -47,14 +47,14 @@
 <div>
 <p align="left">
   <br>
-  <img src="https://img.shields.io/badge/cachyos-(Current%20Use)-202020?style=for-the-badge&logo=cachyos&logoColor=cachyos&labelColor=0B434C">
+  <img src="https://img.shields.io/badge/Arch_Linux-(Current%20Use)-202020?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1793D1">
 </p>
   
 <p align="left">
   
-      OS      : CachyOS x86_64
-      Kernel  : Linux 7.0.11-1-cachyos
-      Shell   : fish 4.7.1
+      OS      : Arch Linux x86_64
+      Kernel  : Linux 7.0.11-arch1-1
+      Shell   : zsh 5.9.1
       DE      : KDE Plasma 6.6.5
       WM      : KWin (Wayland)
       
