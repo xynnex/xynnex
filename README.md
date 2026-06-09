@@ -1,6 +1,6 @@
 <div align="center">
 
-#  System Tinkerer & Developer
+#  Do-It-Yourself
 **` trial | error | learn | recover | repeat `**
 
 <p align="center">
@@ -54,7 +54,7 @@
   
       OS      : Arch Linux x86_64
       Kernel  : Linux 7.0.11-arch1-1
-      Shell   : zsh 5.9.1
+      Terminal: kitty 0.47.1
       DE      : KDE Plasma 6.6.5
       WM      : KWin (Wayland)
       
