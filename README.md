@@ -43,22 +43,6 @@
 ---
 </div>
 
-<div>
-<p align="left">
-  <br>
-  <img src="https://img.shields.io/badge/Arch_Linux-(Current%20Use)-202020?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1793D1">
-</p>
-  
-<p align="left">
-  
-      OS      : Arch Linux x86_64
-      Kernel  : Linux 7.0.11-arch1-1
-      Terminal: kitty 0.47.1
-      DE      : KDE Plasma 6.6.5
-      WM      : KWin (Wayland)
-      
-</p>
-
 <p align="right">
   <sup><sub><em>FOMO SKALI INI</em></sub></sup>
 </p>
