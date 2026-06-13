@@ -40,6 +40,8 @@
 
 > *building quietly.*
 
+# Keep It Simple Stupid.
+
 ---
 </div>
 
