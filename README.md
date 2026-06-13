@@ -38,9 +38,8 @@
 
 <br>
 
-> *building quietly.*
-
-# Keep It Simple Stupid.
+### K.I.S.S
+Keep It Simple Stupid
 
 ---
 </div>
