@@ -4,7 +4,7 @@
 **` trial | error | learn | recover | repeat `**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Tinkering+with+Android+%26+Linux;Distro+Hopping+Enthusiast." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Tinkering+with+Android+%26+Linux;Linux+Distro+Hopping+Enthusiast." alt="Typing SVG" />
 </p>
 
 
