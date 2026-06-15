@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Fedora%20KDE%20Plasma%20Desktop-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/CachyOS-0B434C?style=for-the-badge&logo=cachyos&logoColor=00D2FF">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white">
 </p>
 
 ---
